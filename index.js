@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Regarde Hentai Lover +18","Regarde Un Hentai"];
 
 
 let currentIndex = 0;
