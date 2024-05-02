@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Regarde Hentai Lover +18","Surveille Hentai Lover +18","Regarde 7200 Membres", "Joue avec Shimoneta IA"];
+const statusMessages = ["**Regarde** Hentai Lover +18","**Surveille** Hentai Lover +18","**Regarde** 7200 Membres", "**Joue** avec Shimoneta IA"];
 
 
 let currentIndex = 0;
